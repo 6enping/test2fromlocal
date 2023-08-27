@@ -2,3 +2,5 @@ select data_dt,count(1) from test_table;
 select '2' as tab;
 select '3' as tab;
 select '4' as tab;
+
+select '5' as tab;
